@@ -1,0 +1,3 @@
+config load "D:\BLDC\ST\FOC5.0\MC_SDK_5.0.1\Projects\F302RB\F302RB.ioc"
+project generate
+exit
